@@ -6,7 +6,6 @@ This repository contains a tutorial based on 'LangChain for LLM Application Deve
 
 - `appendix_data`: Supplementary data required for the notebooks
 - `figures`: Supplementary images used in the tutorial
-- `.env`: Environment variables file (remember to set up your API keys)
 - `.gitignore`: Git ignore file
 - Jupyter notebooks:
   - L1-Model_prompt_parser.ipynb
@@ -17,6 +16,8 @@ This repository contains a tutorial based on 'LangChain for LLM Application Deve
   - L6-Agents.ipynb
 - LICENSE: MIT License
 - README.md: This file
+
+Note: remember to set up your API keys in environment variables file `.env`
 
 ## Course Overview
 
